@@ -1,8 +1,8 @@
 # Ray Tracing in One Weekend
-![Ray Tracing in One Weekend Book Cover](./asset/image/ray_tracing_in_one_weekend.jpg)
+![Ray Tracing in One Weekend Book Cover](asset/image/ray_tracing_in_one_weekend.jpg)
 
 * 영문: https://raytracing.github.io/books/RayTracingInOneWeekend.html
-* 한글: https://github.com/gfx-korea/ray_tracing_in_one_weekend/book
+* 한글: https://github.com/gfx-korea/ray_tracing_in_one_weekend/blob/master/book/contents.md
 
 ## 일주일에 끝내는 레이 트레이싱 한글화 프로젝트
 
