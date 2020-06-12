@@ -11,6 +11,24 @@
 * 모든 문서는 Markdown 포맷을 기본으로 합니다.
 * 원문의 의도만 바뀌지 않는다면 재미있게 의역해도 상관없습니다.
 
+### 빌드 방법
+
+- **윈도우**
+
+```
+mkdir build && cd build
+cmake ..
+cmake --build .
+```
+
+- **맥**
+
+```
+mkdir build && cd build
+cmake .. -G Xcode
+cmake --build .
+```
+
 ### 기여해주신 분들
 
 > 이름이 누락되어있을 경우 이슈를 개설해주십시오.
