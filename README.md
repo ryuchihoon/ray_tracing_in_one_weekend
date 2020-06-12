@@ -13,6 +13,8 @@
 
 ### 빌드 방법
 
+![CI](https://github.com/gfx-korea/ray_tracing_in_one_weekend/workflows/CI/badge.svg)
+
 - **윈도우**
 
 ```
