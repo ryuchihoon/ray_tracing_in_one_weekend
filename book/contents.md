@@ -14,10 +14,10 @@
     * 3.2 [벡터3 유틸리티 함수](the_vec3_class.md/#32-벡터3-유틸리티-함수)
     * 3.3 [색상 유틸리티 함수](the_vec3_class.md/#33-색상-유틸리티-함수)
 
-* 4 레이, 간단한 카메라, 배경
+* 4 [레이, 간단한 카메라, 배경](rays_a_simple_camera_and_background.md)
 
-    * 4.1 레이 클래스
-    * 4.2 레이를 장면으로 쏘기
+    * 4.1 [레이 클래스](rays_a_simple_camera_and_background.md/#41-레이-클래스)
+    * 4.2 [레이를 장면으로 쏘기](rays_a_simple_camera_and_background.md/#42-레이를-장면으로-쏘기)
 
 * 5 구 추가하기
 

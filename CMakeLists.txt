@@ -5,6 +5,7 @@ project(inOneWeekend VERSION 0.0.1 LANGUAGES CXX)
 add_executable(inOneWeekend
 	src/vec3.h
 	src/color.h
+	src/ray.h
 	src/main.cc
 )
 
